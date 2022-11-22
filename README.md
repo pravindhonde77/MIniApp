@@ -6,6 +6,12 @@ This is my individual project .
 
 ----functionality----
 1)simple navbar
+
+
 2)add to cart and remove from the cart
+
+
 3)increment and decrement the qnty of product.
+
+
 4)responsive
