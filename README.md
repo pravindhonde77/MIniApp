@@ -5,6 +5,8 @@ by implementing HTML, CSS, JavaScript,React,Redux. Working on this project helps
 This is my individual project .
 
 ----functionality----
+
+
 1)simple navbar
 
 
